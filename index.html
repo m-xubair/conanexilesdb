@@ -59,7 +59,7 @@ $(document).ready(function(){
  $('#result').on('click', 'li', function() {
   var click_text = $(this).text().split('|');
   $('#search').val($.trim(click_text[0]));
-  $("#result").html('<li class="list-group-item link-class"><img src="'+value.Icon+'" height="40" width="40" class="img-thumbnail" /> '+value.Name+' | <span class="text-muted">'+value.ShortDesc+'</span></li>');
+  $("#result").html('');
  });
 });
 </script>
