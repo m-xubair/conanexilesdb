@@ -1,0 +1,91 @@
+html, body{
+	font-size: 16px;
+}
+body{
+	background: #0a0000;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6{
+	color: #ddc171;
+	font-weight: 700;
+}
+.form-control:focus{
+	border-color: #ffffff;
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.30);
+}
+header{
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+header h2{
+	margin-bottom: 30px;
+	font-size: 2.5rem;
+}
+.list-group{
+	position: absolute;
+	top: 44px;
+	left: 0;
+	width: 100%;
+}
+.form-group{
+	position: relative;
+}
+#result{
+	display: none;
+	max-height: 400px;
+	overflow-y: auto;
+	z-index: 9;
+}
+#result li{
+	cursor: pointer;
+}
+#result li:hover{
+	background-color:#f1f1f1;
+}
+#data{
+	color: #fff;
+	display: none;
+}
+#data .container .wrapper{
+	background: #242424;
+	padding: 20px;
+	border-radius: 8px;
+	margin-bottom: 30px;
+}
+#data .short-desc{
+	color: #ddc171;
+}
+#data .long-desc{
+	color: #8c8c8c;
+}
+#data table{
+	font-size: 13px;
+}
+#data table td span{
+	margin-left: 30px;
+	float: right;
+}
+.table-dark{
+	background: #2d2d2d;
+}
+.table-dark td, .table-dark th, .table-dark thead th {
+    border-color: #3c3c3c;
+}
+.table-dark.table-hover tbody tr:hover {
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.04);
+}
+#entry-template{
+	color: #fff;
+}
+#data table td a{
+	color: #ddc171;
+}
+#data table td a:hover{
+	text-decoration: none;
+	opacity: .7;
+}
+#data table td a:not(:last-of-type)::after {
+  content: ", "    
+}
