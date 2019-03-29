@@ -49,7 +49,7 @@ $(document).ready(function(){
    $.each(data, function(key, value){
     if (value.Name.search(expression) != -1)
     {
-     $('#result').append('<li class="list-group-item link-class"><img src="'+value.Icon+'" height="40" width="40" class="img-thumbnail" /> '+value.Name+' | <span class="text-muted">'+value.ShortDesc+'</span></li>');
+     $('#result').append('<li class="list-group-item link-class"><img src="'+value.Icon+'" height="64" width="64" class="img-thumbnail" /> '+value.Name+' | <span class="text-muted">'+value.ShortDesc+'</span></li>');
     }
    });   
   });
