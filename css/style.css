@@ -31,6 +31,9 @@ header h2{
 .form-group{
 	position: relative;
 }
+.img-thumbnail{
+	background-image: url('../img/iconbg.png');
+}
 #result{
 	display: none;
 	max-height: 400px;
