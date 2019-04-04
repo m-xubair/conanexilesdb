@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="icon" href="img/fav.png" sizes="32x32" />
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">	
+	<link rel="stylesheet" href="css/style.css">
+	<title>Conan Exiles Database Search - Items, Recipes</title>
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="text-center"><img src="img/bannerlogo1.png" width="100%"></h2>
+					<form>
+					  <div class="form-group">
+					    <input type="text" name="search" id="search" class="form-control" placeholder="Search Items..." autocomplete="off">
+						<ul class="list-group" id="result"></ul>
+					  </div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<main id="data"></main>
+	<script id="data-template" type="text/x-handlebars-template">
+		<div class="container">
+			<div class="wrapper">
+				<div class="row">
+					<div class="col-12">
+						<h1 class="mb-4">{{{item.Name}}}</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-2"><img src="{{item.Icon}}" alt="" class="img-thumbnail img-responsive mb-4"></div>
+					<div class="col-md-10">
+						<p class="mb-0">{{{item.Name}}}</p>
+						<p class="short-desc mb-0">{{{item.ShortDesc}}}</p>
+						<p class="long-desc mb-4">{{{LongDesc}}}</p>
+
+						<table class="table table-hover table-dark mb-4">
+							<tr>
+								<td>ID</td>
+								<td><span>{{item.RowName}}</span></td>
+							</tr>
+							<tr>
+								<td>GUI Category</td>
+								<td><span>{{item.GUICategory}}</span></td>
+							</tr>
+							<tr>
+								<td>Armour Value</td>
+								<td><span>{{item.ArmourValue}}</span></td>
+							</tr>
+							<tr>
+								<td>Armor Type</td>
+								<td><span>{{item.ArmorType}}</span></td>
+							</tr>
+							<tr>
+								<td>Weapon Type</td>
+								<td><span>{{item.WeaponType}}</span></td>
+							</tr>
+							<tr>
+								<td>Weapon Arche Type</td>
+								<td><span>{{item.WeaponArcheType}}</span></td>
+							</tr>
+							<tr>
+								<td>Compatable Ammunitions</td>
+								<td>
+									{{#each item.CompatableAmmunitionsNameArray}}
+									<a class="innerlink" href="#" data-id="{{id}}">{{name}}</a>
+									{{/each}}
+								</td>
+							</tr>
+							<tr>
+								<td>Encumbrance Weight</td>
+								<td><span>{{item.EncumbranceWeight}}</span></td>
+							</tr>
+							<tr>
+								<td>Harvest Damage</td>
+								<td><span>{{item.HarvestDamage}}</span></td>
+							</tr>
+							<tr>
+								<td>Weapon Usage</td>
+								<td><span>{{item.WeaponUsage}}</span></td>
+							</tr>
+							<tr>
+								<td>Max Attack Reach</td>
+								<td><span>{{item.MaxAttackReach}}</span></td>
+							</tr>
+							<tr>
+								<td>Min Attack Reach</td>
+								<td><span>{{item.MinAttackReach}}</span></td>
+							</tr>
+							<tr>
+								<td>Min Attack Distance</td>
+								<td><span>{{item.MinAttackDistance}}</span></td>
+							</tr>
+							<tr>
+								<td>Item Tier</td>
+								<td><span>{{item.ItemTier}}</span></td>
+							</tr>
+							<tr>
+								<td>Armor Pen</td>
+								<td><span>{{item.ArmorPen}}</span></td>
+							</tr>
+							<tr>
+								<td>Cool Down Time</td>
+								<td><span>{{item.CoolDownTime}}</span></td>
+							</tr>
+							<tr>
+								<td>Reuse Time</td>
+								<td><span>{{item.ReuseTime}}</span></td>
+							</tr>
+							<tr>
+								<td>Max Durability</td>
+								<td><span>{{item.MaxDurability}}</span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 1</td>
+								<td><span><a class="innerlink" href="#" data-id="{{item.RepairItem1}}">{{item.RepairItem1Name}}</a></span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 1 Amount</td>
+								<td><span>{{item.RepairItem1_Amount}}</span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 1 Weight</td>
+								<td><span>{{item.RepairItem1_Weight}}</span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 2</td>
+								<td><span><a class="innerlink" href="#" data-id="{{item.RepairItem2}}">{{item.RepairItem2Name}}</a></span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 2 Amount</td>
+								<td><span>{{item.RepairItem2_Amount}}</span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 2 Weight</td>
+								<td><span>{{item.RepairItem2_Weight}}</span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 3</td>
+								<td><span><a class="innerlink" href="#" data-id="{{item.RepairItem3}}">{{item.RepairItem3Name}}</a></span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 3 Amount</td>
+								<td><span>{{item.RepairItem3_Amount}}</span></td>
+							</tr>
+							<tr>
+								<td>RepairItem 3 Weight</td>
+								<td><span>{{item.RepairItem3_Weight}}</span></td>
+							</tr>
+							<tr>
+								<td>Repair XP</td>
+								<td><span>{{item.RepairXP}}</span></td>
+							</tr>
+							<tr>
+								<td>First Modifier</td>
+								<td><span>{{item.FirstModifier}}</span></td>
+							</tr>
+							<tr>
+								<td>Second Modifier</td>
+								<td><span>{{item.SecondModifier}}</span></td>
+							</tr>
+							<tr>
+								<td>Third Modifier</td>
+								<td><span>{{item.ThirdModifier}}</span></td>
+							</tr>
+							<tr>
+								<td>Fourth Modifier</td>
+								<td><span>{{item.FourthModifier}}</span></td>
+							</tr>
+							<tr>
+								<td>Food Amount</td>
+								<td><span>{{item.FoodAmount}}</span></td>
+							</tr>
+							<tr>
+								<td>Drink Amount</td>
+								<td><span>{{item.DrinkAmount}}</span></td>
+							</tr>
+							<tr>
+								<td>Burn Time</td>
+								<td><span>{{item.BurnTime}}</span></td>
+							</tr>
+							<tr>
+								<td>Stamina Cost Multiplier</td>
+								<td><span>{{item.StaminaCostMultiplier}}</span></td>
+							</tr>
+							<tr>
+								<td>Stamina Climbing Cost Multiplier</td>
+								<td><span>{{item.StaminaClimbingCostMultiplier}}</span></td>
+							</tr>
+							<tr>
+								<td>DLC Package</td>
+								<td><span>{{item.DLCPackage}}</span></td>
+							</tr>
+						</table>
+						<h6 class="mb-3">Advanced Damage Statistics</h6>
+						<table class="table table-hover table-dark">
+							<tr>
+								<td>Damage Tier</td>
+								<td><span>{{item.DamageTier}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Health Light on Hit</td>
+								<td><span>{{item.DamageHealthLight_OnHit}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Health Heavy on Hit</td>
+								<td><span>{{item.DamageHealthHeavy_OnHit}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Stamina Light on Hit</td>
+								<td><span>{{item.DamageStaminaLight_OnHit}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Stamina Heavy on Hit</td>
+								<td><span>{{item.DamageStaminaHeavy_OnHit}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Health Light on Block</td>
+								<td><span>{{item.DamageHealthLight_OnBlock}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Health Heavy on Block</td>
+								<td><span>{{item.DamageHealthHeavy_OnBlock}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Stamina Light on Block</td>
+								<td><span>{{item.DamageStaminaLight_OnBlock}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Stamina Heavy on Block</td>
+								<td><span>{{item.DamageStaminaHeavy_OnBlock}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Concussive Light on Hit</td>
+								<td><span>{{item.DamageConcussiveLightOnHit}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Concussive Heavy on Hit</td>
+								<td><span>{{item.DamageConcussiveHeavyOnHit}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Concussive Light on Block</td>
+								<td><span>{{item.DamageConcussiveLightOnBlock}}</span></td>
+							</tr>
+							<tr>
+								<td>Damage Concussive Heavy on Block</td>
+								<td><span>{{item.DamageConcussiveHeavyOnBlock}}</span></td>
+							</tr>
+							<tr>
+								<td>Knockback Offense Basic</td>
+								<td><span>{{item.KnockbackOffenseBasic}}</span></td>
+							</tr>
+							<tr>
+								<td>Knockback Offense Special</td>
+								<td><span>{{item.KnockbackOffenseSpecial}}</span></td>
+							</tr>
+							<tr>
+								<td>Knockback Offense Basic on Block</td>
+								<td><span>{{item.KnockbackOffenseBasicOnBlock}}</span></td>
+							</tr>
+							<tr>
+								<td>Knockback Offense Special on Block</td>
+								<td><span>{{item.KnockbackOffenseSpecialOnBlock}}</span></td>
+							</tr>							
+						</table>					
+					</div>
+				</div>
+			</div>
+		</div>
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="js/handlebars-v4.1.1.js"></script>
+	<script>
+
+		(function(){
+
+			function clearResults(){
+				$('#result').css('display', 'none').html('');
+			}
+
+			$.ajaxSetup({ cache: false });
+
+			$('#search').keyup(function(){
+				if( this.value.length < 3 ) {
+					clearResults();
+					return;
+				}
+				clearResults();
+				var searchField = $('#search').val();
+				RegExp.quote = function(str) {
+					return str.replace(/([.?*+^$[\]\\(){}|-])/g, "\\$1");
+				};
+				var expression = new RegExp(RegExp.quote(searchField), "i");
+				$.getJSON('data.json', function(data) {
+					$.each(data, function(key, value){
+						if (value.Name.search(expression) != -1) {
+							$('#result').css('display', 'block').append('<li class="list-group-item" data-id="'+value.RowName+'"><img src="'+value.Icon+'" height="64" width="64" class="img-thumbnail" /> '+value.Name+' | <span class="text-muted">'+value.ShortDesc+'</span></li>');
+						}
+					});   
+				});
+			});
+
+
+			$('#result').on('click', 'li', function() {
+
+				var self = $(this);
+				var id =self.data('id');
+
+				$.getJSON('data.json', function(data) {
+				 
+					$.each(data, function(key, value){
+
+						if (value.RowName == id)
+						{
+
+							if (typeof value.CompatableAmmunitions !== 'undefined' && value.CompatableAmmunitions.length > 0) {
+								value.CompatableAmmunitionsNameArray = [];
+								$.each(value.CompatableAmmunitions, function(key2, value2){
+										$.each(data, function(key3, value3){
+											if (value2 == value3.RowName) {
+												value.CompatableAmmunitionsNameArray.push({"name" : value3.Name, "id" : value3.RowName});
+											}
+										});
+								});
+							}
+
+							if (value.RepairItem1 !== 'undefined' && value.RepairItem1 != '' && value.RepairItem1 != 0) {
+								$.each(data, function(key3, value3){
+									if (value.RepairItem1 == value3.RowName) {
+										value.RepairItem1Name = value3.Name;
+									}
+								});								
+							}
+
+							if (value.RepairItem2 !== 'undefined' && value.RepairItem2 != '' && value.RepairItem2 != 0) {
+								$.each(data, function(key3, value3){
+									if (value.RepairItem2 == value3.RowName) {
+										value.RepairItem2Name = value3.Name;
+									}
+								});								
+							}
+
+							if (value.RepairItem3 !== 'undefined' && value.RepairItem3 != '' && value.RepairItem3 != 0) {
+								$.each(data, function(key3, value3){
+									if (value.RepairItem3 == value3.RowName) {
+										value.RepairItem3Name = value3.Name;
+									}
+								});								
+							}
+
+							doJob(value, self);
+						}
+
+					});   
+				
+				});
+
+				function doJob(item, self){
+					var click_text = self.text().split('|');
+					$('#search').val($.trim(click_text[0]));
+					clearResults();
+
+					$('#data').css('display', 'block');
+
+					var source = document.getElementById("data-template").innerHTML;
+					var template = Handlebars.compile(source);
+
+					var context = {
+						item,
+						foo: [{'name':'nika'}, {'name':'jango'}],
+						LongDesc: item.LongDesc.replace(/(\r\n|\n|\r|\\n|\\')/gm,"")
+					};
+
+					var html = template(context);
+					document.getElementById("data").innerHTML = html;
+
+
+					$('.innerlink').on('click', function(e){
+						$(window).scrollTop(0);
+
+						var self = $(this);
+						var id =self.data('id');
+						$.getJSON('data.json', function(data) {
+							$.each(data, function(key, value){
+								if (value.RowName == id) doJob(value, self);
+							});   
+						
+						});
+						e.preventDefault();
+					});
+
+				}
+
+			});
+
+		})();
+	</script>
+
+</body>
+</html>
