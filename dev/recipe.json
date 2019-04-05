@@ -8065,7 +8065,7 @@
 	},
 	{
 		"RowName": "13550",
-		"RecipeName": "Devil\\'s Bonemeal",
+		"RecipeName": "Devil's Bonemeal",
 		"ShortDesc": "The crushed bones and marrow of an otherworldly creature.",
 		"RecipeType": "Consumable",
 		"TimeToCraft": 30,
@@ -10165,7 +10165,7 @@
 	},
 	{
 		"RowName": "14175",
-		"RecipeName": "Dead Woman\\'s Hair",
+		"RecipeName": "Dead Woman's Hair",
 		"ShortDesc": "Taken from the tresses of dead women",
 		"RecipeType": "Material",
 		"TimeToCraft": 5,
@@ -10501,7 +10501,7 @@
 	},
 	{
 		"RowName": "14199",
-		"RecipeName": "Asura\\'s Glory",
+		"RecipeName": "Asura's Glory",
 		"ShortDesc": "Flower of a magenta hue",
 		"RecipeType": "Material",
 		"TimeToCraft": 570,
@@ -17936,7 +17936,7 @@
 	{
 		"RowName": "18242",
 		"RecipeName": "Cimmerian Meal",
-		"ShortDesc": "It\\'s hot, and its filling",
+		"ShortDesc": "It's hot, and its filling",
 		"RecipeType": "Consumable",
 		"TimeToCraft": 5,
 		"Tier": 1,
@@ -18104,7 +18104,7 @@
 	{
 		"RowName": "18246",
 		"RecipeName": "Rhino Head Soup",
-		"ShortDesc": "Soup from a great beast\\'s head",
+		"ShortDesc": "Soup from a great beast's head",
 		"RecipeType": "Consumable",
 		"TimeToCraft": 5,
 		"Tier": 3,
@@ -20287,7 +20287,7 @@
 	},
 	{
 		"RowName": "18305",
-		"RecipeName": "Hunter\\'s Potion",
+		"RecipeName": "Hunter's Potion",
 		"ShortDesc": "A concoction that temporarily increases accuracy",
 		"RecipeType": "Consumable",
 		"TimeToCraft": 10,
@@ -21715,7 +21715,7 @@
 	},
 	{
 		"RowName": "18514",
-		"RecipeName": "Torturer\\'s Worktable",
+		"RecipeName": "Torturer's Worktable",
 		"ShortDesc": "A place for crafting objects of torture",
 		"RecipeType": "Craftingstations",
 		"TimeToCraft": 15,
@@ -21799,7 +21799,7 @@
 	},
 	{
 		"RowName": "18516",
-		"RecipeName": "Improved Armorer\\'s Bench",
+		"RecipeName": "Improved Armorer's Bench",
 		"ShortDesc": "A bench covered in tools for crafting armor",
 		"RecipeType": "Craftingstations",
 		"TimeToCraft": 35,
@@ -38221,7 +38221,7 @@
 	},
 	{
 		"RowName": "51066",
-		"RecipeName": "Telith\\'s Lament",
+		"RecipeName": "Telith's Lament",
 		"ShortDesc": "An ancient sword, haunted and grim",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 120,
@@ -38515,7 +38515,7 @@
 	},
 	{
 		"RowName": "51075",
-		"RecipeName": "Telith\\'s Sorrow",
+		"RecipeName": "Telith's Sorrow",
 		"ShortDesc": "An ancient sword, haunted and grim",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -43261,7 +43261,7 @@
 	},
 	{
 		"RowName": "51456",
-		"RecipeName": "Derketo\\'s Kiss",
+		"RecipeName": "Derketo's Kiss",
 		"ShortDesc": "A tool for extracting unfulfilled desires",
 		"RecipeType": "Tools",
 		"TimeToCraft": 20,
@@ -43513,7 +43513,7 @@
 	},
 	{
 		"RowName": "51462",
-		"RecipeName": "Blessed Derketo\\'s Kiss",
+		"RecipeName": "Blessed Derketo's Kiss",
 		"ShortDesc": "A tool for extracting unfulfilled desires",
 		"RecipeType": "Tools",
 		"TimeToCraft": 40,
@@ -46327,7 +46327,7 @@
 	},
 	{
 		"RowName": "51532",
-		"RecipeName": "El\\'s Drinker",
+		"RecipeName": "El's Drinker",
 		"ShortDesc": "A sword of blackest ebony",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -46705,7 +46705,7 @@
 	},
 	{
 		"RowName": "51541",
-		"RecipeName": "Baal-pteor\\'s Razor",
+		"RecipeName": "Baal-pteor's Razor",
 		"ShortDesc": "A blade that weighs nothing",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -46999,7 +46999,7 @@
 	},
 	{
 		"RowName": "51548",
-		"RecipeName": "Aja\\'s Bane",
+		"RecipeName": "Aja's Bane",
 		"ShortDesc": "A club that imparts terrible strength on its wielder",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -47167,7 +47167,7 @@
 	},
 	{
 		"RowName": "51552",
-		"RecipeName": "Hanuman\\'s Gada",
+		"RecipeName": "Hanuman's Gada",
 		"ShortDesc": "A war-club dedicated to Hanuman",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -47251,7 +47251,7 @@
 	},
 	{
 		"RowName": "51554",
-		"RecipeName": "Baal-pteor\\'s Lodestone",
+		"RecipeName": "Baal-pteor's Lodestone",
 		"ShortDesc": "A hammer that weighs nothing",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -47377,7 +47377,7 @@
 	},
 	{
 		"RowName": "51557",
-		"RecipeName": "Bessie\\'s Bow",
+		"RecipeName": "Bessie's Bow",
 		"ShortDesc": "A bow which confers a bonus to stamina",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -47755,7 +47755,7 @@
 	},
 	{
 		"RowName": "51566",
-		"RecipeName": "Black Bruargh\\'s Fury",
+		"RecipeName": "Black Bruargh's Fury",
 		"ShortDesc": "A legendary shield with an interesting strap mechanism",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -48007,7 +48007,7 @@
 	},
 	{
 		"RowName": "51572",
-		"RecipeName": "Gavain\\'s Rusty Pike",
+		"RecipeName": "Gavain's Rusty Pike",
 		"ShortDesc": "A pike pitted with rust ravaged by age",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -48175,7 +48175,7 @@
 	},
 	{
 		"RowName": "51576",
-		"RecipeName": "Reaver\\'s Axe",
+		"RecipeName": "Reaver's Axe",
 		"ShortDesc": "An axe coated in strange substance",
 		"RecipeType": "Weapon",
 		"TimeToCraft": 240,
@@ -52753,7 +52753,7 @@
 	},
 	{
 		"RowName": "51965",
-		"RecipeName": "Bindings of Dead Women\\'s Hair",
+		"RecipeName": "Bindings of Dead Women's Hair",
 		"ShortDesc": "A rope made from the tresses of dead women",
 		"RecipeType": "Tools",
 		"TimeToCraft": 15,
@@ -66151,8 +66151,8 @@
 	},
 	{
 		"RowName": "52610",
-		"RecipeName": "Winter\\'s Majesty",
-		"ShortDesc": "A coronal radiating winter\\'s chill",
+		"RecipeName": "Winter's Majesty",
+		"ShortDesc": "A coronal radiating winter's chill",
 		"RecipeType": "Armor",
 		"TimeToCraft": 20,
 		"Tier": 2,
@@ -66193,8 +66193,8 @@
 	},
 	{
 		"RowName": "52611",
-		"RecipeName": "Ymir\\'s Aegis",
-		"ShortDesc": "This chest piece protects one with a frost giant\\'s might",
+		"RecipeName": "Ymir's Aegis",
+		"ShortDesc": "This chest piece protects one with a frost giant's might",
 		"RecipeType": "Armor",
 		"TimeToCraft": 20,
 		"Tier": 2,
@@ -66235,7 +66235,7 @@
 	},
 	{
 		"RowName": "52612",
-		"RecipeName": "Ymir\\'s Might",
+		"RecipeName": "Ymir's Might",
 		"ShortDesc": "Gauntlets that give an icy touch",
 		"RecipeType": "Armor",
 		"TimeToCraft": 20,
@@ -66277,8 +66277,8 @@
 	},
 	{
 		"RowName": "52613",
-		"RecipeName": "Ymir\\'s Shanks",
-		"ShortDesc": "Leggings marked by Ymir\\'s runes",
+		"RecipeName": "Ymir's Shanks",
+		"ShortDesc": "Leggings marked by Ymir's runes",
 		"RecipeType": "Armor",
 		"TimeToCraft": 20,
 		"Tier": 2,
@@ -66319,7 +66319,7 @@
 	},
 	{
 		"RowName": "52614",
-		"RecipeName": "Ymir\\'s Stride",
+		"RecipeName": "Ymir's Stride",
 		"ShortDesc": "Boots that crunch like snow with every step",
 		"RecipeType": "Armor",
 		"TimeToCraft": 20,
@@ -71233,7 +71233,7 @@
 	},
 	{
 		"RowName": "53202",
-		"RecipeName": "Demon\\'s Bane",
+		"RecipeName": "Demon's Bane",
 		"ShortDesc": "0",
 		"RecipeType": "Consumable",
 		"TimeToCraft": 120,
@@ -71737,8 +71737,8 @@
 	},
 	{
 		"RowName": "53524",
-		"RecipeName": "Warpaint - Ymir\\'s Children",
-		"ShortDesc": "A decorative warpaint depicting the emblem of Ymir\\'s Children",
+		"RecipeName": "Warpaint - Ymir's Children",
+		"ShortDesc": "A decorative warpaint depicting the emblem of Ymir's Children",
 		"RecipeType": "Warpaints",
 		"TimeToCraft": 10,
 		"Tier": 2,
@@ -74005,7 +74005,7 @@
 	},
 	{
 		"RowName": "55004",
-		"RecipeName": "Ritual: Set\\'s Protection",
+		"RecipeName": "Ritual: Set's Protection",
 		"ShortDesc": "A spiritual residue left on religious altars",
 		"RecipeType": "Utility",
 		"TimeToCraft": 1800,
@@ -74047,7 +74047,7 @@
 	},
 	{
 		"RowName": "55005",
-		"RecipeName": "Ritual: Yog\\'s Protection",
+		"RecipeName": "Ritual: Yog's Protection",
 		"ShortDesc": "A spiritual residue left on religious altars",
 		"RecipeType": "Utility",
 		"TimeToCraft": 1800,
@@ -74089,7 +74089,7 @@
 	},
 	{
 		"RowName": "55006",
-		"RecipeName": "Ritual: Mitra\\'s Protection",
+		"RecipeName": "Ritual: Mitra's Protection",
 		"ShortDesc": "A spiritual residue left on religious altars",
 		"RecipeType": "Utility",
 		"TimeToCraft": 1800,
@@ -74173,7 +74173,7 @@
 	},
 	{
 		"RowName": "55008",
-		"RecipeName": "Ritual: Ymir\\'s Protection",
+		"RecipeName": "Ritual: Ymir's Protection",
 		"ShortDesc": "A spiritual residue left on religious altars",
 		"RecipeType": "Utility",
 		"TimeToCraft": 1800,
@@ -74257,7 +74257,7 @@
 	},
 	{
 		"RowName": "55010",
-		"RecipeName": "Ritual: Jhebbal Sag\\'s Protection",
+		"RecipeName": "Ritual: Jhebbal Sag's Protection",
 		"ShortDesc": "A spiritual residue left on religious altars",
 		"RecipeType": "Utility",
 		"TimeToCraft": 1800,
@@ -74341,7 +74341,7 @@
 	},
 	{
 		"RowName": "55100",
-		"RecipeName": "Ritual: Derketo\\'s Protection",
+		"RecipeName": "Ritual: Derketo's Protection",
 		"ShortDesc": "A spiritual residue left on religious altars",
 		"RecipeType": "Utility",
 		"TimeToCraft": 1800,
@@ -76819,7 +76819,7 @@
 	},
 	{
 		"RowName": "80327",
-		"RecipeName": "Decorative Planter (Asura\\'s Glory)",
+		"RecipeName": "Decorative Planter (Asura's Glory)",
 		"ShortDesc": "A decorative planter for displaying plants",
 		"RecipeType": "Decoration",
 		"TimeToCraft": 5,
@@ -87277,7 +87277,7 @@
 	},
 	{
 		"RowName": "89201",
-		"RecipeName": "Armorer\\'s Bench",
+		"RecipeName": "Armorer's Bench",
 		"ShortDesc": "A bench covered in tools for crafting armor",
 		"RecipeType": "Craftingstations",
 		"TimeToCraft": 30,
@@ -87319,7 +87319,7 @@
 	},
 	{
 		"RowName": "89301",
-		"RecipeName": "Blacksmith\\'s Bench",
+		"RecipeName": "Blacksmith's Bench",
 		"ShortDesc": "A bench covered in tools for shaping metal",
 		"RecipeType": "Craftingstations",
 		"TimeToCraft": 30,
@@ -87361,7 +87361,7 @@
 	},
 	{
 		"RowName": "89302",
-		"RecipeName": "Improved Blacksmith\\'s Bench",
+		"RecipeName": "Improved Blacksmith's Bench",
 		"ShortDesc": "A bench covered in tools for shaping metal",
 		"RecipeType": "Craftingstations",
 		"TimeToCraft": 60,
@@ -87403,7 +87403,7 @@
 	},
 	{
 		"RowName": "89401",
-		"RecipeName": "Carpenter\\'s Bench",
+		"RecipeName": "Carpenter's Bench",
 		"ShortDesc": "A bench covered in tools for carpentry",
 		"RecipeType": "Craftingstations",
 		"TimeToCraft": 30,
@@ -87445,7 +87445,7 @@
 	},
 	{
 		"RowName": "89402",
-		"RecipeName": "Improved Carpenter\\'s Bench",
+		"RecipeName": "Improved Carpenter's Bench",
 		"ShortDesc": "A bench covered in tools for carpentry",
 		"RecipeType": "Craftingstations",
 		"TimeToCraft": 60,
@@ -109454,7 +109454,7 @@
 	{
 		"RowName": "95000",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -109496,7 +109496,7 @@
 	{
 		"RowName": "95001",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -109538,7 +109538,7 @@
 	{
 		"RowName": "95002",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -109580,7 +109580,7 @@
 	{
 		"RowName": "95003",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -109622,7 +109622,7 @@
 	{
 		"RowName": "95004",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -109664,7 +109664,7 @@
 	{
 		"RowName": "95005",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -109706,7 +109706,7 @@
 	{
 		"RowName": "95006",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -109748,7 +109748,7 @@
 	{
 		"RowName": "95007",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -109790,7 +109790,7 @@
 	{
 		"RowName": "95008",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -109832,7 +109832,7 @@
 	{
 		"RowName": "95009",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -109874,7 +109874,7 @@
 	{
 		"RowName": "95010",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -109916,7 +109916,7 @@
 	{
 		"RowName": "95011",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -109958,7 +109958,7 @@
 	{
 		"RowName": "95012",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110000,7 +110000,7 @@
 	{
 		"RowName": "95013",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -110042,7 +110042,7 @@
 	{
 		"RowName": "95014",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110084,7 +110084,7 @@
 	{
 		"RowName": "95015",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110126,7 +110126,7 @@
 	{
 		"RowName": "95016",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -110168,7 +110168,7 @@
 	{
 		"RowName": "95017",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110210,7 +110210,7 @@
 	{
 		"RowName": "95018",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -110252,7 +110252,7 @@
 	{
 		"RowName": "95019",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110294,7 +110294,7 @@
 	{
 		"RowName": "95020",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -110336,7 +110336,7 @@
 	{
 		"RowName": "95021",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110378,7 +110378,7 @@
 	{
 		"RowName": "95022",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110420,7 +110420,7 @@
 	{
 		"RowName": "95023",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -110462,7 +110462,7 @@
 	{
 		"RowName": "95024",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110504,7 +110504,7 @@
 	{
 		"RowName": "95025",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -110546,7 +110546,7 @@
 	{
 		"RowName": "95026",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110588,7 +110588,7 @@
 	{
 		"RowName": "95027",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110630,7 +110630,7 @@
 	{
 		"RowName": "95028",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -110672,7 +110672,7 @@
 	{
 		"RowName": "95029",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110714,7 +110714,7 @@
 	{
 		"RowName": "95030",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110756,7 +110756,7 @@
 	{
 		"RowName": "95031",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -110798,7 +110798,7 @@
 	{
 		"RowName": "95032",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -110840,7 +110840,7 @@
 	{
 		"RowName": "95033",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110882,7 +110882,7 @@
 	{
 		"RowName": "95034",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -110924,7 +110924,7 @@
 	{
 		"RowName": "95035",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -110966,7 +110966,7 @@
 	{
 		"RowName": "95036",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -111008,7 +111008,7 @@
 	{
 		"RowName": "95037",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -111050,7 +111050,7 @@
 	{
 		"RowName": "95038",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111092,7 +111092,7 @@
 	{
 		"RowName": "95039",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -111134,7 +111134,7 @@
 	{
 		"RowName": "95040",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -111176,7 +111176,7 @@
 	{
 		"RowName": "95041",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111218,7 +111218,7 @@
 	{
 		"RowName": "95042",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111260,7 +111260,7 @@
 	{
 		"RowName": "95043",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111302,7 +111302,7 @@
 	{
 		"RowName": "95044",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111344,7 +111344,7 @@
 	{
 		"RowName": "95045",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111386,7 +111386,7 @@
 	{
 		"RowName": "95046",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111428,7 +111428,7 @@
 	{
 		"RowName": "95047",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111470,7 +111470,7 @@
 	{
 		"RowName": "95048",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111512,7 +111512,7 @@
 	{
 		"RowName": "95049",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111554,7 +111554,7 @@
 	{
 		"RowName": "95050",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111596,7 +111596,7 @@
 	{
 		"RowName": "95051",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111638,7 +111638,7 @@
 	{
 		"RowName": "95052",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111680,7 +111680,7 @@
 	{
 		"RowName": "95053",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111722,7 +111722,7 @@
 	{
 		"RowName": "95054",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111764,7 +111764,7 @@
 	{
 		"RowName": "95055",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111806,7 +111806,7 @@
 	{
 		"RowName": "95056",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111848,7 +111848,7 @@
 	{
 		"RowName": "95057",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111890,7 +111890,7 @@
 	{
 		"RowName": "95058",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111932,7 +111932,7 @@
 	{
 		"RowName": "95059",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -111974,7 +111974,7 @@
 	{
 		"RowName": "95060",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112016,7 +112016,7 @@
 	{
 		"RowName": "95061",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -112058,7 +112058,7 @@
 	{
 		"RowName": "95062",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -112100,7 +112100,7 @@
 	{
 		"RowName": "95063",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -112142,7 +112142,7 @@
 	{
 		"RowName": "95064",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -112184,7 +112184,7 @@
 	{
 		"RowName": "95065",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -112226,7 +112226,7 @@
 	{
 		"RowName": "95066",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112268,7 +112268,7 @@
 	{
 		"RowName": "95067",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -112310,7 +112310,7 @@
 	{
 		"RowName": "95068",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112352,7 +112352,7 @@
 	{
 		"RowName": "95069",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112394,7 +112394,7 @@
 	{
 		"RowName": "95070",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112436,7 +112436,7 @@
 	{
 		"RowName": "95071",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112478,7 +112478,7 @@
 	{
 		"RowName": "95072",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112520,7 +112520,7 @@
 	{
 		"RowName": "95073",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112562,7 +112562,7 @@
 	{
 		"RowName": "95074",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -112604,7 +112604,7 @@
 	{
 		"RowName": "95075",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112646,7 +112646,7 @@
 	{
 		"RowName": "95076",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112688,7 +112688,7 @@
 	{
 		"RowName": "95077",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112730,7 +112730,7 @@
 	{
 		"RowName": "95078",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112772,7 +112772,7 @@
 	{
 		"RowName": "95079",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112814,7 +112814,7 @@
 	{
 		"RowName": "95080",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112856,7 +112856,7 @@
 	{
 		"RowName": "95081",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -112898,7 +112898,7 @@
 	{
 		"RowName": "95082",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112940,7 +112940,7 @@
 	{
 		"RowName": "95083",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -112982,7 +112982,7 @@
 	{
 		"RowName": "95084",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -113024,7 +113024,7 @@
 	{
 		"RowName": "95085",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -113066,7 +113066,7 @@
 	{
 		"RowName": "95086",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -113150,7 +113150,7 @@
 	{
 		"RowName": "95088",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113192,7 +113192,7 @@
 	{
 		"RowName": "95089",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113234,7 +113234,7 @@
 	{
 		"RowName": "95090",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113276,7 +113276,7 @@
 	{
 		"RowName": "95091",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -113318,7 +113318,7 @@
 	{
 		"RowName": "95092",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -113360,7 +113360,7 @@
 	{
 		"RowName": "95093",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113402,7 +113402,7 @@
 	{
 		"RowName": "95094",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113444,7 +113444,7 @@
 	{
 		"RowName": "95095",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113486,7 +113486,7 @@
 	{
 		"RowName": "95096",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113528,7 +113528,7 @@
 	{
 		"RowName": "95097",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113570,7 +113570,7 @@
 	{
 		"RowName": "95098",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113612,7 +113612,7 @@
 	{
 		"RowName": "95099",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113654,7 +113654,7 @@
 	{
 		"RowName": "95100",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -113696,7 +113696,7 @@
 	{
 		"RowName": "95101",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -113738,7 +113738,7 @@
 	{
 		"RowName": "95102",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113780,7 +113780,7 @@
 	{
 		"RowName": "95103",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113822,7 +113822,7 @@
 	{
 		"RowName": "95104",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113864,7 +113864,7 @@
 	{
 		"RowName": "95105",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113906,7 +113906,7 @@
 	{
 		"RowName": "95106",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -113948,7 +113948,7 @@
 	{
 		"RowName": "95107",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -113990,7 +113990,7 @@
 	{
 		"RowName": "95108",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -114032,7 +114032,7 @@
 	{
 		"RowName": "95109",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114074,7 +114074,7 @@
 	{
 		"RowName": "95110",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114116,7 +114116,7 @@
 	{
 		"RowName": "95111",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114158,7 +114158,7 @@
 	{
 		"RowName": "95112",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114200,7 +114200,7 @@
 	{
 		"RowName": "95113",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114242,7 +114242,7 @@
 	{
 		"RowName": "95114",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114284,7 +114284,7 @@
 	{
 		"RowName": "95115",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -114326,7 +114326,7 @@
 	{
 		"RowName": "95116",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114368,7 +114368,7 @@
 	{
 		"RowName": "95117",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114410,7 +114410,7 @@
 	{
 		"RowName": "95118",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114452,7 +114452,7 @@
 	{
 		"RowName": "95119",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114494,7 +114494,7 @@
 	{
 		"RowName": "95120",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -114536,7 +114536,7 @@
 	{
 		"RowName": "95121",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114578,7 +114578,7 @@
 	{
 		"RowName": "95122",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -114620,7 +114620,7 @@
 	{
 		"RowName": "95123",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114662,7 +114662,7 @@
 	{
 		"RowName": "95124",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114704,7 +114704,7 @@
 	{
 		"RowName": "95125",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114746,7 +114746,7 @@
 	{
 		"RowName": "95126",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114788,7 +114788,7 @@
 	{
 		"RowName": "95127",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114830,7 +114830,7 @@
 	{
 		"RowName": "95128",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -114872,7 +114872,7 @@
 	{
 		"RowName": "95129",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114914,7 +114914,7 @@
 	{
 		"RowName": "95130",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114956,7 +114956,7 @@
 	{
 		"RowName": "95131",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -114998,7 +114998,7 @@
 	{
 		"RowName": "95132",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115040,7 +115040,7 @@
 	{
 		"RowName": "95133",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115082,7 +115082,7 @@
 	{
 		"RowName": "95134",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -115124,7 +115124,7 @@
 	{
 		"RowName": "95135",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115166,7 +115166,7 @@
 	{
 		"RowName": "95136",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115208,7 +115208,7 @@
 	{
 		"RowName": "95137",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115250,7 +115250,7 @@
 	{
 		"RowName": "95138",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115292,7 +115292,7 @@
 	{
 		"RowName": "95139",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115334,7 +115334,7 @@
 	{
 		"RowName": "95140",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -115376,7 +115376,7 @@
 	{
 		"RowName": "95141",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115418,7 +115418,7 @@
 	{
 		"RowName": "95142",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115460,7 +115460,7 @@
 	{
 		"RowName": "95143",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115502,7 +115502,7 @@
 	{
 		"RowName": "95144",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115544,7 +115544,7 @@
 	{
 		"RowName": "95145",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115586,7 +115586,7 @@
 	{
 		"RowName": "95146",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -115628,7 +115628,7 @@
 	{
 		"RowName": "95147",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115670,7 +115670,7 @@
 	{
 		"RowName": "95148",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115712,7 +115712,7 @@
 	{
 		"RowName": "95149",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115754,7 +115754,7 @@
 	{
 		"RowName": "95150",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115796,7 +115796,7 @@
 	{
 		"RowName": "95151",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115838,7 +115838,7 @@
 	{
 		"RowName": "95152",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -115880,7 +115880,7 @@
 	{
 		"RowName": "95153",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -115922,7 +115922,7 @@
 	{
 		"RowName": "95154",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -115964,7 +115964,7 @@
 	{
 		"RowName": "95155",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116006,7 +116006,7 @@
 	{
 		"RowName": "95156",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -116048,7 +116048,7 @@
 	{
 		"RowName": "95157",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116090,7 +116090,7 @@
 	{
 		"RowName": "95158",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116132,7 +116132,7 @@
 	{
 		"RowName": "95159",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -116174,7 +116174,7 @@
 	{
 		"RowName": "95160",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -116216,7 +116216,7 @@
 	{
 		"RowName": "95161",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116258,7 +116258,7 @@
 	{
 		"RowName": "95162",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -116300,7 +116300,7 @@
 	{
 		"RowName": "95163",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116342,7 +116342,7 @@
 	{
 		"RowName": "95164",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116384,7 +116384,7 @@
 	{
 		"RowName": "95165",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -116426,7 +116426,7 @@
 	{
 		"RowName": "95166",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116468,7 +116468,7 @@
 	{
 		"RowName": "95167",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -116510,7 +116510,7 @@
 	{
 		"RowName": "95168",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116552,7 +116552,7 @@
 	{
 		"RowName": "95169",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116594,7 +116594,7 @@
 	{
 		"RowName": "95170",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116636,7 +116636,7 @@
 	{
 		"RowName": "95171",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -116678,7 +116678,7 @@
 	{
 		"RowName": "95172",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -116720,7 +116720,7 @@
 	{
 		"RowName": "95173",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116762,7 +116762,7 @@
 	{
 		"RowName": "95174",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -116804,7 +116804,7 @@
 	{
 		"RowName": "95175",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116846,7 +116846,7 @@
 	{
 		"RowName": "95176",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -116888,7 +116888,7 @@
 	{
 		"RowName": "95177",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -116930,7 +116930,7 @@
 	{
 		"RowName": "95178",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -116972,7 +116972,7 @@
 	{
 		"RowName": "95179",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117014,7 +117014,7 @@
 	{
 		"RowName": "95180",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117056,7 +117056,7 @@
 	{
 		"RowName": "95181",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117098,7 +117098,7 @@
 	{
 		"RowName": "95182",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117140,7 +117140,7 @@
 	{
 		"RowName": "95183",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -117182,7 +117182,7 @@
 	{
 		"RowName": "95184",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117224,7 +117224,7 @@
 	{
 		"RowName": "95185",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -117266,7 +117266,7 @@
 	{
 		"RowName": "95186",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -117308,7 +117308,7 @@
 	{
 		"RowName": "95187",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -117350,7 +117350,7 @@
 	{
 		"RowName": "95188",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -117392,7 +117392,7 @@
 	{
 		"RowName": "95189",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -117434,7 +117434,7 @@
 	{
 		"RowName": "95190",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -117476,7 +117476,7 @@
 	{
 		"RowName": "95191",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117518,7 +117518,7 @@
 	{
 		"RowName": "95192",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117560,7 +117560,7 @@
 	{
 		"RowName": "95193",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117602,7 +117602,7 @@
 	{
 		"RowName": "95194",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117644,7 +117644,7 @@
 	{
 		"RowName": "95195",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117686,7 +117686,7 @@
 	{
 		"RowName": "95196",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117728,7 +117728,7 @@
 	{
 		"RowName": "95197",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117770,7 +117770,7 @@
 	{
 		"RowName": "95198",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117812,7 +117812,7 @@
 	{
 		"RowName": "95199",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117854,7 +117854,7 @@
 	{
 		"RowName": "95200",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117896,7 +117896,7 @@
 	{
 		"RowName": "95201",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117938,7 +117938,7 @@
 	{
 		"RowName": "95202",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -117980,7 +117980,7 @@
 	{
 		"RowName": "95203",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118022,7 +118022,7 @@
 	{
 		"RowName": "95204",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118064,7 +118064,7 @@
 	{
 		"RowName": "95205",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118106,7 +118106,7 @@
 	{
 		"RowName": "95206",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118148,7 +118148,7 @@
 	{
 		"RowName": "95207",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -118190,7 +118190,7 @@
 	{
 		"RowName": "95208",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118232,7 +118232,7 @@
 	{
 		"RowName": "95209",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118274,7 +118274,7 @@
 	{
 		"RowName": "95210",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118316,7 +118316,7 @@
 	{
 		"RowName": "95211",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118358,7 +118358,7 @@
 	{
 		"RowName": "95212",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118526,7 +118526,7 @@
 	{
 		"RowName": "95216",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118568,7 +118568,7 @@
 	{
 		"RowName": "95217",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118610,7 +118610,7 @@
 	{
 		"RowName": "95218",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118652,7 +118652,7 @@
 	{
 		"RowName": "95219",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118694,7 +118694,7 @@
 	{
 		"RowName": "95220",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118736,7 +118736,7 @@
 	{
 		"RowName": "95221",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118778,7 +118778,7 @@
 	{
 		"RowName": "95222",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118820,7 +118820,7 @@
 	{
 		"RowName": "95223",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118862,7 +118862,7 @@
 	{
 		"RowName": "95224",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118904,7 +118904,7 @@
 	{
 		"RowName": "95225",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -118946,7 +118946,7 @@
 	{
 		"RowName": "95226",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -118988,7 +118988,7 @@
 	{
 		"RowName": "95227",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -119030,7 +119030,7 @@
 	{
 		"RowName": "95228",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -119072,7 +119072,7 @@
 	{
 		"RowName": "95229",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119114,7 +119114,7 @@
 	{
 		"RowName": "95230",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119156,7 +119156,7 @@
 	{
 		"RowName": "95231",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -119198,7 +119198,7 @@
 	{
 		"RowName": "95232",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -119240,7 +119240,7 @@
 	{
 		"RowName": "95233",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119282,7 +119282,7 @@
 	{
 		"RowName": "95234",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119324,7 +119324,7 @@
 	{
 		"RowName": "95235",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -119366,7 +119366,7 @@
 	{
 		"RowName": "95236",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119408,7 +119408,7 @@
 	{
 		"RowName": "95237",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119450,7 +119450,7 @@
 	{
 		"RowName": "95238",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119492,7 +119492,7 @@
 	{
 		"RowName": "95239",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -119534,7 +119534,7 @@
 	{
 		"RowName": "95240",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -119576,7 +119576,7 @@
 	{
 		"RowName": "95241",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119618,7 +119618,7 @@
 	{
 		"RowName": "95242",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -119660,7 +119660,7 @@
 	{
 		"RowName": "95243",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119702,7 +119702,7 @@
 	{
 		"RowName": "95244",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119744,7 +119744,7 @@
 	{
 		"RowName": "95245",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -119786,7 +119786,7 @@
 	{
 		"RowName": "95246",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119828,7 +119828,7 @@
 	{
 		"RowName": "95247",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119870,7 +119870,7 @@
 	{
 		"RowName": "95248",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -119912,7 +119912,7 @@
 	{
 		"RowName": "95249",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -119954,7 +119954,7 @@
 	{
 		"RowName": "95250",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -119996,7 +119996,7 @@
 	{
 		"RowName": "95251",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -120038,7 +120038,7 @@
 	{
 		"RowName": "95252",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120080,7 +120080,7 @@
 	{
 		"RowName": "95253",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120122,7 +120122,7 @@
 	{
 		"RowName": "95254",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -120164,7 +120164,7 @@
 	{
 		"RowName": "95255",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120206,7 +120206,7 @@
 	{
 		"RowName": "95256",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -120248,7 +120248,7 @@
 	{
 		"RowName": "95257",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120290,7 +120290,7 @@
 	{
 		"RowName": "95258",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120332,7 +120332,7 @@
 	{
 		"RowName": "95259",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -120374,7 +120374,7 @@
 	{
 		"RowName": "95260",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120416,7 +120416,7 @@
 	{
 		"RowName": "95261",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120458,7 +120458,7 @@
 	{
 		"RowName": "95262",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
@@ -120500,7 +120500,7 @@
 	{
 		"RowName": "95263",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -120542,7 +120542,7 @@
 	{
 		"RowName": "95264",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120584,7 +120584,7 @@
 	{
 		"RowName": "95265",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120626,7 +120626,7 @@
 	{
 		"RowName": "95266",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 2,
@@ -120668,7 +120668,7 @@
 	{
 		"RowName": "95267",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120710,7 +120710,7 @@
 	{
 		"RowName": "95268",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 1,
@@ -120752,7 +120752,7 @@
 	{
 		"RowName": "95269",
 		"RecipeName": "Dung",
-		"ShortDesc": "A hunk o\\' crap",
+		"ShortDesc": "A hunk o' crap",
 		"RecipeType": "PetItem",
 		"TimeToCraft": 1200,
 		"Tier": 3,
