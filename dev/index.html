@@ -277,6 +277,7 @@
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	<script src="js/handlebars-v4.1.1.js"></script>
+	<script src="js/item.js" type="text/javascript"></script>
 	<script>
 
 		(function(){
@@ -306,100 +307,7 @@
 					});   
 				});
 			});
-
-
-			$('#result').on('click', 'li', function() {
-
-				var self = $(this);
-				var id =self.data('id');
-
-				$.getJSON('data.json', function(data) {
-				 
-					$.each(data, function(key, value){
-
-						if (value.RowName == id)
-						{
-
-							if (typeof value.CompatableAmmunitions !== 'undefined' && value.CompatableAmmunitions.length > 0) {
-								value.CompatableAmmunitionsNameArray = [];
-								$.each(value.CompatableAmmunitions, function(key2, value2){
-										$.each(data, function(key3, value3){
-											if (value2 == value3.RowName) {
-												value.CompatableAmmunitionsNameArray.push({"name" : value3.Name, "id" : value3.RowName});
-											}
-										});
-								});
-							}
-
-							if (value.RepairItem1 !== 'undefined' && value.RepairItem1 != '' && value.RepairItem1 != 0) {
-								$.each(data, function(key3, value3){
-									if (value.RepairItem1 == value3.RowName) {
-										value.RepairItem1Name = value3.Name;
-									}
-								});								
-							}
-
-							if (value.RepairItem2 !== 'undefined' && value.RepairItem2 != '' && value.RepairItem2 != 0) {
-								$.each(data, function(key3, value3){
-									if (value.RepairItem2 == value3.RowName) {
-										value.RepairItem2Name = value3.Name;
-									}
-								});								
-							}
-
-							if (value.RepairItem3 !== 'undefined' && value.RepairItem3 != '' && value.RepairItem3 != 0) {
-								$.each(data, function(key3, value3){
-									if (value.RepairItem3 == value3.RowName) {
-										value.RepairItem3Name = value3.Name;
-									}
-								});								
-							}
-
-							doJob(value, self);
-						}
-
-					});   
-				
-				});
-
-				function doJob(item, self){
-					var click_text = self.text().split('|');
-					$('#search').val($.trim(click_text[0]));
-					clearResults();
-
-					$('#data').css('display', 'block');
-
-					var source = document.getElementById("data-template").innerHTML;
-					var template = Handlebars.compile(source);
-
-					var context = {
-						item,
-						foo: [{'name':'nika'}, {'name':'jango'}],
-						LongDesc: item.LongDesc.replace(/(\r\n|\n|\r|\\n|\\')/gm,"")
-					};
-
-					var html = template(context);
-					document.getElementById("data").innerHTML = html;
-
-
-					$('.innerlink').on('click', function(e){
-						$(window).scrollTop(0);
-
-						var self = $(this);
-						var id =self.data('id');
-						$.getJSON('data.json', function(data) {
-							$.each(data, function(key, value){
-								if (value.RowName == id) doJob(value, self);
-							});   
-						
-						});
-						e.preventDefault();
-					});
-
-				}
-
-			});
-
+			
 		})();
 	</script>
 
