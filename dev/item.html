@@ -308,13 +308,10 @@
 			});
 
 
-			$('#result').on('click', 'li', function() {
-
-				var self = $(this);
-				var id =self.data('id');
+			function getItem(id) {
 
 				$.getJSON('data.json', function(data) {
-				 
+				  var self = $(this);
 					$.each(data, function(key, value){
 
 						if (value.RowName == id)
@@ -398,10 +395,17 @@
 
 				}
 
-			});
+			};
+
+			var urlParams = new URLSearchParams(window.location.search);
+			var itemId = urlParams.get('id');
+			if(itemId) {
+				getItem(itemId);
+			} 
 
 		})();
 	</script>
+	<script src="js/item.js"></script>
 
 </body>
 </html>
